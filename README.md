@@ -93,6 +93,7 @@ Un projet claude.ai par domaine. Chacun a sa mission, ses règles, ses skills et
 | [mods-claude-code](https://github.com/horizonchapter/mods-claude-code) | 4 mods pour l'app Claude Code : Jauge+, Cap, Fil, Plume |
 | [claude-routines](https://github.com/horizonchapter/claude-routines) | 4 routines programmées qui tiennent Notion à jour |
 | [context-transfer](https://github.com/horizonchapter/context-transfer) | reprendre dans un nouveau chat sans rien perdre |
+| [chiffrage-projet](https://github.com/horizonchapter/chiffrage-projet) | chiffrer un projet : marge nette, point mort, décision STOP / PIVOT / CONTINUER |
 | [grill-me](https://github.com/horizonchapter/grill-me) | se faire interroger pour solidifier un projet avant de le lancer |
 | [claude-second-brain](https://github.com/horizonchapter/claude-second-brain) | les modèles CLAUDE.md, STATE.md, DECISIONS.md |
 | [pdf-luxe](https://github.com/horizonchapter/pdf-luxe) | des PDF au rendu d'édition haut de gamme |
