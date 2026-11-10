@@ -96,6 +96,9 @@ Un projet claude.ai par domaine. Chacun a sa mission, ses règles, ses skills et
 | [chiffrage-projet](https://github.com/horizonchapter/chiffrage-projet) | chiffrer un projet : marge nette, point mort, décision STOP / PIVOT / CONTINUER |
 | [checklist-lancement-web](https://github.com/horizonchapter/checklist-lancement-web) | tout vérifier avant de publier un site, une boutique ou un SaaS |
 | [roblox-skills](https://github.com/horizonchapter/roblox-skills) | 4 skills pour créer des jeux Roblox de bout en bout |
+| [oeil-humain](https://github.com/horizonchapter/oeil-humain) | contrôler une vidéo comme un vrai spectateur avant de la publier |
+| [filtre-ia](https://github.com/horizonchapter/filtre-ia) | enlever le style « généré » d'une interface |
+| [claude-subagents](https://github.com/horizonchapter/claude-subagents) | l'équipe d'agents : chercheur, relecteur, chiffreur, trieur, expert Roblox |
 | [grill-me](https://github.com/horizonchapter/grill-me) | se faire interroger pour solidifier un projet avant de le lancer |
 | [claude-second-brain](https://github.com/horizonchapter/claude-second-brain) | les modèles CLAUDE.md, STATE.md, DECISIONS.md |
 | [pdf-luxe](https://github.com/horizonchapter/pdf-luxe) | des PDF au rendu d'édition haut de gamme |
