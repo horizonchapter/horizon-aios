@@ -92,14 +92,13 @@ Un projet claude.ai par domaine. Chacun a sa mission, ses règles, ses skills et
 | [chef-employe](https://github.com/horizonchapter/chef-employe) | déléguer le travail routinier à des sous-agents moins chers, et vérifier |
 | [mods-claude-code](https://github.com/horizonchapter/mods-claude-code) | 4 mods pour l'app Claude Code : Jauge+, Cap, Fil, Plume |
 | [claude-routines](https://github.com/horizonchapter/claude-routines) | 4 routines programmées qui tiennent Notion à jour |
-| [context-transfer](https://github.com/horizonchapter/context-transfer) | reprendre dans un nouveau chat sans rien perdre |
-| [chiffrage-projet](https://github.com/horizonchapter/chiffrage-projet) | chiffrer un projet : marge nette, point mort, décision STOP / PIVOT / CONTINUER |
-| [checklist-lancement-web](https://github.com/horizonchapter/checklist-lancement-web) | tout vérifier avant de publier un site, une boutique ou un SaaS |
+| [memoire-relais](https://github.com/horizonchapter/memoire-relais) | lire et noter la mémoire, passer le relais d'un chat à l'autre sans rien perdre |
+| [decision-business](https://github.com/horizonchapter/decision-business) | démarrer un projet et décider avec des chiffres : STOP / PIVOT / CONTINUER |
+| [publication-sure](https://github.com/horizonchapter/publication-sure) | tout tester avant de publier un site, une boutique ou un SaaS |
 | [roblox-skills](https://github.com/horizonchapter/roblox-skills) | 4 skills pour créer des jeux Roblox de bout en bout |
 | [oeil-humain](https://github.com/horizonchapter/oeil-humain) | contrôler une vidéo comme un vrai spectateur avant de la publier |
 | [filtre-ia](https://github.com/horizonchapter/filtre-ia) | enlever le style « généré » d'une interface |
 | [claude-subagents](https://github.com/horizonchapter/claude-subagents) | l'équipe d'agents : chercheur, relecteur, chiffreur, trieur, expert Roblox |
-| [grill-me](https://github.com/horizonchapter/grill-me) | se faire interroger pour solidifier un projet avant de le lancer |
 | [claude-second-brain](https://github.com/horizonchapter/claude-second-brain) | les modèles CLAUDE.md, STATE.md, DECISIONS.md |
 | [pdf-luxe](https://github.com/horizonchapter/pdf-luxe) | des PDF au rendu d'édition haut de gamme |
 
