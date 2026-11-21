@@ -88,14 +88,18 @@ Un projet claude.ai par domaine. Chacun a sa mission, ses règles, ses skills et
 
 | Dépôt | En une ligne |
 |---|---|
+| [clearmind](https://github.com/horizonchapter/clearmind) | skill de fond : tout lire, ne rien inventer, répondre court et lisible |
+| [design-horizon](https://github.com/horizonchapter/design-horizon) | un seul point d'entrée pour un design d'interface beau, qui ne fait pas IA |
+| [pdf-sobre](https://github.com/horizonchapter/pdf-sobre) | des PDF A4 sobres et précis depuis du Markdown |
+| [skill-booster](https://github.com/horizonchapter/skill-booster) | fusionner et améliorer des skills plutôt que d'en multiplier |
 | [memoire-aios](https://github.com/horizonchapter/memoire-aios) | crée ton AIOS et son second cerveau Obsidian |
 | [chef-employe](https://github.com/horizonchapter/chef-employe) | déléguer le travail routinier à des sous-agents moins chers, et vérifier |
 | [mods-claude-code](https://github.com/horizonchapter/mods-claude-code) | 4 mods pour l'app Claude Code : Jauge+, Cap, Fil, Plume |
-| [claude-routines](https://github.com/horizonchapter/claude-routines) | 4 routines programmées qui tiennent Notion à jour |
+| [claude-routines](https://github.com/horizonchapter/claude-routines) | 4 routines programmées qui tiennent Notion à jour (archivé) |
 | [memoire-relais](https://github.com/horizonchapter/memoire-relais) | lire et noter la mémoire, passer le relais d'un chat à l'autre sans rien perdre |
 | [decision-business](https://github.com/horizonchapter/decision-business) | démarrer un projet et décider avec des chiffres : STOP / PIVOT / CONTINUER |
 | [publication-sure](https://github.com/horizonchapter/publication-sure) | tout tester avant de publier un site, une boutique ou un SaaS |
-| [roblox-skills](https://github.com/horizonchapter/roblox-skills) | 4 skills pour créer des jeux Roblox de bout en bout |
+| [roblox-skills](https://github.com/horizonchapter/roblox-skills) | 4 skills pour créer des jeux Roblox de bout en bout (archivé) |
 | [oeil-humain](https://github.com/horizonchapter/oeil-humain) | contrôler une vidéo comme un vrai spectateur avant de la publier |
 | [filtre-ia](https://github.com/horizonchapter/filtre-ia) | enlever le style « généré » d'une interface |
 | [claude-subagents](https://github.com/horizonchapter/claude-subagents) | l'équipe d'agents : chercheur, relecteur, chiffreur, trieur, expert Roblox |
